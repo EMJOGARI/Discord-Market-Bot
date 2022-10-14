@@ -1,8 +1,16 @@
 {
     "EN-US":{
-
+        "1":"Normal",
+        "2":"Good",
+        "3":"Excellent",
+        "4":"Outstanding",
+        "5":"Masterpiece"
     },   
     "ES-ES":{
-        
+        "1":"Normal",
+        "2":"Bueno",
+        "3":"Notable",
+        "4":"Sobresaliente",
+        "5":"Obra Maestra"        
     }
 }
